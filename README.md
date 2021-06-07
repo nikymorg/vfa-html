@@ -1,5 +1,3 @@
-This is a coding exercise for an Intro to HTML lecture I gave to 100 fellows at [Venture for America](https://ventureforamerica.org/) in 2019.
-
 # Instructions
 
 You have been hired to update a 90's music fanpage by an eccentric millionaire. (Don't ask why. It just is.) Below are some of the deliverables the client has asked for. The HTML page is already linked to the CSS and JavaScript files, so you are ready to start coding.
